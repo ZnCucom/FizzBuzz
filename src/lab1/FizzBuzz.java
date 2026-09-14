@@ -29,7 +29,7 @@ class FizzBuzz {
            doFizzBuzz(i);
 
            i += 1;
-            };
         }
     }
+}
 
